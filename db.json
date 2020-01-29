@@ -1,4 +1,3 @@
-[
 { "id":{
      "sysid":"VMS",
      "subid":"FDS",
@@ -26,4 +25,3 @@
      {"alarm":3,"title":"Danger","threshold":45.67,"status":"normal"}
   ]
 }
-]
