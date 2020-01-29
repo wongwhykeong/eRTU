@@ -1,0 +1,29 @@
+[
+{ "id":{
+     "sysid":"VMS",
+     "subid":"FDS",
+     "name":"Sri Petaling Demo Site",
+     "rtuid":"4158043DBB",
+     "status":"normal"
+  },
+  "data":{
+     "epoch":1580232412146,
+     "local":"2020-1-29 01:26:52",
+     "index":0,
+     "wl1":12.35,
+     "wl2":-9999,
+     "wl3":-9999,
+     "dinput":"0x30"
+  },
+  "para":[
+     {"level":1,"title":"WL US","alarm1":12.34,"alarm2":23.45,"alarm3":45.67,"alarm4":56.78,"lowerlimit":10.00,"upperlimit":80.00,"baseoffset":10.00,"fullscale":30.00},
+     {"level":2,"title":"WL US","alarm1":12.34,"alarm2":23.45,"alarm3":45.67,"alarm4":56.78,"lowerlimit":10.00,"upperlimit":80.00,"baseoffset":10.00,"fullscale":30.00},
+     {"level":3,"title":"WL US","alarm1":12.34,"alarm2":23.45,"alarm3":45.67,"alarm4":56.78,"lowerlimit":10.00,"upperlimit":80.00,"baseoffset":10.00,"fullscale":30.00}
+  ],
+  "alarm":[
+     {"alarm":1,"title":"Alert","threshold":12.34,"status":"alert"},
+     {"alarm":2,"title":"Warning","threshold":23.45,"status":"normal"},
+     {"alarm":3,"title":"Danger","threshold":45.67,"status":"normal"}
+  ]
+}
+]
