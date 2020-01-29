@@ -4,7 +4,7 @@
      "subid":"FDS",
      "name":"Sri Petaling Demo Site",
      "rtuid":"4158043DBB",
-     "status":"normal"
+     "status":"alert"
   },
   "data":{
      "epoch":1580232412146,
